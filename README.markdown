@@ -194,7 +194,7 @@ The server requires at least PHP 5.2 and a MySQL server installation!
         }
 
 - When using the client in a Sandbox, add the following temporary exception entitlement
-  com.apple.security.temporary-exception.files.home-relative-path.read-only /Library/Logs
+  com.apple.security.temporary-exception.files.home-relative-path.read-only /Library/Logs/
   
 - Done.
 
